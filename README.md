@@ -1,8 +1,12 @@
 ### Hello 👋
-. . . . . . .
+. . . . . . . . . . .
 
 ### I'm Navya.. Data Science & AI enthusiast
-. . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
+# - Working on Data Science Projects
+
+# - Like to Collaborate and Contribute to Data Science Community
 <!--
 **Navya0099/Navya0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
