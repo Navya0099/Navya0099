@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Navya0099)
 
 #### Connect me on :
-       [navyapathipaka526@gmail.com](mailto:navyapathipaka526@gmail.com)
+       [mailto](mailto:navyapathipaka526@gmail.com)
      
 
 
