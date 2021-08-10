@@ -12,8 +12,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Navya0099)
 
-#### Reach me on:
-     Email : navyapathipaka526@gmail.com
+#### Connect me on :
+       [navyapathipaka526@gmail.com](mailto:navyapathipaka526@gmail.com)
      
 
 
