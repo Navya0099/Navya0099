@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Navya0099)
 
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![counter](https://[https://pipedream.com/@navya0099/copy-of-github-profile-view-counter-p_QPCawK7/edit#:~:text=https%3A//en1kc5cpnw6a9hm.m.pipedream.net].m.pipedream.net)
 
 <!--
 **Navya0099/Navya0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
