@@ -12,8 +12,10 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Navya0099)
 
+#### Reach me on:
+     Email : navyapathipaka526@gmail.com
+     
 
-![counter](https://[https://pipedream.com/@navya0099/copy-of-github-profile-view-counter-p_QPCawK7].m.pipedream.net)
 
 <!--
 **Navya0099/Navya0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
